@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "941781372662",
+    "project_id": "samplefirebase-ba197",
+    "storage_bucket": "samplefirebase-ba197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941781372662:android:0f69a7b362e4cc06bf26d7",
+        "android_client_info": {
+          "package_name": "com.example.diet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941781372662-haro0qeucgb1v77nqluki2shc0f11kmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtR2AGB_Ym5ifL6WQ5U9paNj5qkOG46Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941781372662-haro0qeucgb1v77nqluki2shc0f11kmu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941781372662-31pt6eoqurl5fa72q0095q5rpkheh4kc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941781372662:android:ca076c09d5aecbd3bf26d7",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941781372662-haro0qeucgb1v77nqluki2shc0f11kmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtR2AGB_Ym5ifL6WQ5U9paNj5qkOG46Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941781372662-haro0qeucgb1v77nqluki2shc0f11kmu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941781372662-31pt6eoqurl5fa72q0095q5rpkheh4kc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
